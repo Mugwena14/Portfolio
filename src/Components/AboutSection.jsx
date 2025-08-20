@@ -1,3 +1,5 @@
+import { Briefcase, Code, User } from 'lucide-react'
+
 export const AboutSection =() => {
     return(
         <section id="About" className="py-24 px-4 relative">
@@ -29,7 +31,41 @@ export const AboutSection =() => {
                             </a>
                         </div>
                     </div>
-                    <div></div>
+                    <div className="grid grid-cols-1 gap-6">
+                        <div className="gradient-border p-6 card-hover">
+                            <div className="flex items-stars gap-4">
+                                <div className="p-3 rounded-full bg-primary/10">
+                                <Code  className="h-6 w-6 text-primary"/>
+                                </div>
+                                <div className="text-left">
+                                    <h4 className="font-semibold text-lg">Web Development</h4>
+                                    <p className="text-muted-foreground">I create web applications with react.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="gradient-border p-6 card-hover">
+                            <div className="flex items-stars gap-4">
+                                <div className="p-3 rounded-full bg-primary/10">
+                                <User  className="h-6 w-6 text-primary"/>
+                                </div>
+                                <div className="text-left">
+                                    <h4 className="font-semibold text-lg">Apps with 1500+ users</h4>
+                                    <p className="text-muted-foreground">My two Apps now serve over 1500 users.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="gradient-border p-6 card-hover">
+                            <div className="flex items-stars gap-4">
+                                <div className="p-3 rounded-full bg-primary/10">
+                                <Briefcase  className="h-6 w-6 text-primary"/>
+                                </div>
+                                <div className="text-left">
+                                    <h4 className="font-semibold text-lg">50+ Projects</h4>
+                                    <p className="text-muted-foreground">Trusted for turning ideas into code.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
