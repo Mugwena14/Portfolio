@@ -19,7 +19,7 @@ export const HeroSection = () => {
                         ahead in the field.
                     </p>
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
-                        <a href="#Projects" className="cosmic-button">
+                        <a href="#projects" className="cosmic-button">
                             View My Craft
                         </a>
                     </div>
