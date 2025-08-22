@@ -17,7 +17,7 @@ export const AboutSection =() => {
                         </p>
                         <p className="text-muted-foreground">
                             I am driven by solving real world problems, with an educational app
-                            having over 1000 users. Currently learning new technologies and techniques 
+                            having over 500 users. Currently learning new technologies and techniques 
                             to stay ahead in this forever changing industry.
                         </p>
 
@@ -26,7 +26,7 @@ export const AboutSection =() => {
                                 Get In Touch
                             </a>
 
-                            <a href="#contact" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                            <a href="notFound" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                                 Download CV
                             </a>
                         </div>
@@ -49,7 +49,7 @@ export const AboutSection =() => {
                                 <User  className="h-6 w-6 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg">Apps with 1500+ users</h4>
+                                    <h4 className="font-semibold text-lg">Apps with 500+ users</h4>
                                     <p className="text-muted-foreground">My two Apps now serve over 1500 users.</p>
                                 </div>
                             </div>
