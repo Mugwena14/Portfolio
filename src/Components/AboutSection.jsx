@@ -50,7 +50,7 @@ export const AboutSection =() => {
                                 </div>
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">Apps with 500+ users</h4>
-                                    <p className="text-muted-foreground">My two Apps now serve over 1500 users.</p>
+                                    <p className="text-muted-foreground">My two Apps now serve over 500 users.</p>
                                 </div>
                             </div>
                         </div>
