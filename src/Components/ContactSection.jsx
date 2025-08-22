@@ -1,5 +1,6 @@
 import { Linkedin, Mail, MapPin, Phone, Send, Twitter } from "lucide-react"
 import {cn} from '@/lib/utils'
+import { FaTiktok } from "react-icons/fa6"
 
 
 export const ContactSection = () => {
@@ -67,11 +68,11 @@ export const ContactSection = () => {
                                 <a target="_blank" href="https://www.linkedin.com/in/langavi-makhubele-clyde/">
                                     <Linkedin />
                                 </a>
-                                <a target="_blank">
+                                <a target="_blank" href="https://x.com/MugwenaDev">
                                     <Twitter />
                                 </a>
-                                <a target="_blank">
-                                    <Twitter />
+                                <a target="_blank" href="https://www.tiktok.com/@made.w_mgwena">
+                                    <FaTiktok size={22}/>
                                 </a>
                             </div>
                         </div>
