@@ -64,7 +64,7 @@ export const ContactSection = () => {
                         <div className="pt-8">
                             <h4 className='font-medium mb-4'> Connect With Me</h4>
                             <div className='flex space-x-4 justify-center'>
-                                <a target="_blank">
+                                <a target="_blank" href="https://www.linkedin.com/in/langavi-makhubele-clyde/">
                                     <Linkedin />
                                 </a>
                                 <a target="_blank">

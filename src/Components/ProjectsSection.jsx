@@ -10,8 +10,8 @@ const projects = [
         generated content.`,
         image: "/projects/LoopKart.png",
         tags: ["React", "CSS", "Firebase"],
-        demoUrl: "#",
-        gitHubUrl: "#",
+        demoUrl: "https://loopkart.co.za/",
+        gitHubUrl: "https://github.com/Mugwena14/my-market",
     },
     {
         id: 2,
@@ -21,8 +21,8 @@ const projects = [
         topic, difficulty and length`,
         image: "/projects/Matric IQ.png",
         tags: ["React", "CSS", "Firebase"],
-        demoUrl: "#",
-        gitHubUrl: "#",
+        demoUrl: "https://matric-iq.vercel.app/",
+        gitHubUrl: "https://github.com/Mugwena14/MatrIQ",
     },
     {
         id: 3,
@@ -30,8 +30,8 @@ const projects = [
         description: `This is the CURRENT Portfolio on your screen, built with love, frustration and a bit of coffee.`,
         image: "/projects/Portfolio.png",
         tags: ["React", "TailWind CSS"],
-        demoUrl: "#",
-        gitHubUrl: "#",
+        demoUrl: "#home",
+        gitHubUrl: "https://github.com/Mugwena14/Portfolio",
     }
 ]
 
@@ -87,7 +87,7 @@ export const ProjectsSection = () => {
                 <div className="text-center mt-12">
                     <a className="cosmic-button w-fit flex items-center mx-auto gap-2" 
                     target="_blank"
-                    href="">
+                    href="https://github.com/Mugwena14">
                         Checkout My GitHub <ArrowRight size={16}/>
                     </a>
                 </div>
