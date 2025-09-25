@@ -11,7 +11,7 @@ export const ContactSection = () => {
                     Let's make <span className="text-primary"> Something Happen.</span>
                 </h2>
                 <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-                    Ideas, Feedbacks or just a simple hi? Feel Free to Reach Out.
+                    Feel Free to Reach Out.
                     I'm always open to discussing new opportunities.
                 </p>
                 <div>
