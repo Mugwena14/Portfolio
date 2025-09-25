@@ -10,16 +10,15 @@ export const AboutSection =() => {
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div className="space-y-6">
-                        <h3 className="text-2xl font-semibold">FrontEnd Developer and tech content creator.</h3>
-                        <p className="text-muted-foreground">I'm a React Frontend Developer who loves turning complex data into
-                            clean, responsive interfaces. From semantic CSS to mobile-style 
-                            navigation, I build web apps that feel intuitive and polished
-                            across every device.
+                        <h3 className="text-2xl font-semibold">Full-Stack Developer.</h3>
+                        <p className="text-muted-foreground">I'm a Full-Stack Developer who loves 
+                            turning complex data into clean, responsive interfaces and efficient, 
+                            scalable backends. From semantic CSS to database design and API integration, 
+                            I build web apps that feel intuitive and polished across every device.
                         </p>
                         <p className="text-muted-foreground">
-                            I am driven by solving real world problems, with an educational app
-                            having over 500 users. Currently learning new technologies and techniques 
-                            to stay ahead in this forever changing industry.
+                            I am driven by solving real-world problems — including an educational app with over 500 users. 
+                            I'm constantly learning new technologies to stay ahead in this ever-evolving industry.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -39,8 +38,8 @@ export const AboutSection =() => {
                                 <Code  className="h-6 w-6 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg">Web Development</h4>
-                                    <p className="text-muted-foreground">I create web applications with React.Js</p>
+                                    <h4 className="font-semibold text-lg">Software Development</h4>
+                                    <p className="text-muted-foreground">I create Full-Stack Web applications.</p>
                                 </div>
                             </div>
                         </div>

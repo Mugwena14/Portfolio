@@ -11,12 +11,12 @@ export const HeroSection = () => {
                         <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Makhubele</span>
                     </h1>
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        I'm a FrontEnd Developer who loves building clean,
-                        responsive, and user-friendly interfaces with modern tools.
-                        I enjoy turning ideas into seamless digital experiences that 
-                        feel intuitive and engaging.
-                        Always learning new technologies to keep improving and stay 
-                        ahead in the field.
+                        I'm a Full-Stack Developer who enjoys building clean, responsive, 
+                        and user-friendly interfaces while also crafting efficient and 
+                        scalable back-end systems. I love turning ideas into seamless 
+                        digital experiences that feel intuitive and engaging, from database 
+                        design to polished UI. Always exploring new technologies to improve 
+                        my skills and stay ahead in the field.
                     </p>
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                         <a href="#projects" className="cosmic-button">

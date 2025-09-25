@@ -4,12 +4,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react"
 const projects = [
     {
         id: 1,
-        title: "JobMzala",
-        description: `JobMzala is a free modern job platform that connects employers with talented professionals,
-        making it easier to find the right job or hire the right candidate.`,
-        image: "/projects/JobMzala.png",
-        tags: ["React", "Tailwindcss", "Firebase"],
-        demoUrl: "https://job-mzala.vercel.app/",
+        title: "LoopKart",
+        description: `LoopKart is a modern marketplace app that connects buyers and sellers in a seamless, user-friendly environment. 
+        It allows users to discover products, make purchases, and sell items effortlessly`,
+        image: "/projects/LoopKart.png",
+        tags: ["React", "Tailwindcss", "Express", "MongoDB"],
+        demoUrl: "https://loopkart.vercel.app/",
         gitHubUrl: "https://github.com/Mugwena14/YoJobs",
     },
     {

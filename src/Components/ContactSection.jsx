@@ -56,7 +56,7 @@ export const ContactSection = () => {
                                     <h4 className="font-medium"> Location</h4>
                                     <p 
                                     className="text-muted-foreground hover:text-primary transition-colors">
-                                        Gauteng, Pretoria
+                                        Gauteng
                                     </p>
                                 </div>
                             </div>
@@ -67,9 +67,6 @@ export const ContactSection = () => {
                             <div className='flex space-x-4 justify-center'>
                                 <a target="_blank" href="https://www.linkedin.com/in/langavi-makhubele-clyde/">
                                     <Linkedin />
-                                </a>
-                                <a target="_blank" href="https://x.com/MugwenaDev">
-                                    <Twitter />
                                 </a>
                                 <a target="_blank" href="https://www.tiktok.com/@made.w_mgwena">
                                     <FaTiktok size={22}/>
