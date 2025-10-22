@@ -4,6 +4,16 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react"
 const projects = [
     {
         id: 1,
+        title: "Rexium",
+        description: `An AI-powered task management app that helps you stay organized by adding tasks, recording progress, 
+        and attaching notes and documents — all in one seamless workspace.`,
+        image: "/projects/Rexium.png",
+        tags: ["React", "Tailwindcss", "Express", "MongoDB"],
+        demoUrl: "https://rexium.vercel.app/",
+        gitHubUrl: "https://github.com/Mugwena14/YoJobs",
+    },
+    {
+        id: 2,
         title: "LoopKart",
         description: `LoopKart is a modern marketplace app that connects buyers and sellers in a seamless, user-friendly environment. 
         It allows users to discover products, make purchases, and sell items effortlessly`,
@@ -13,7 +23,7 @@ const projects = [
         gitHubUrl: "https://github.com/Mugwena14/YoJobs",
     },
     {
-        id: 2,
+        id: 3,
         title: "Matric IQ",
         description: `Built for learners revising Life Sciences & Geography, 
         this multiple-choice quiz app delivers CAPS curated questions with immediate feedback. Can filter by subject, year, 
@@ -23,15 +33,7 @@ const projects = [
         demoUrl: "https://matric-iq.vercel.app/",
         gitHubUrl: "https://github.com/Mugwena14/MatrIQ",
     },
-    {
-        id: 3,
-        title: "Portfolio",
-        description: `This is the CURRENT Portfolio on your screen, built with love, frustration and a bit of coffee.`,
-        image: "/projects/Portfolio.png",
-        tags: ["React", "TailWind CSS"],
-        demoUrl: "#home",
-        gitHubUrl: "https://github.com/Mugwena14/Portfolio",
-    }
+
 ]
 
 export const ProjectsSection = () => {
