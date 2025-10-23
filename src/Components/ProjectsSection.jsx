@@ -10,7 +10,7 @@ const projects = [
         image: "/projects/Rexium.png",
         tags: ["React", "Tailwindcss", "Express", "MongoDB"],
         demoUrl: "https://rexium.vercel.app/",
-        gitHubUrl: "https://github.com/Mugwena14/YoJobs",
+        gitHubUrl: "https://github.com/Mugwena14/task-app",
     },
     {
         id: 2,
